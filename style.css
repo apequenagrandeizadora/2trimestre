@@ -1,0 +1,14 @@
+.aleatorio{
+    width: 250px;
+    height: 250px;
+}
+.tituloimg{
+    text-align: center;
+    color: blueviolet;
+    font-size: 30px;
+}
+.todasimagens{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    
+}
